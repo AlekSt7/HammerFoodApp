@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HammerFoodApp</string>
+    <string name="error_text">Произошла ошибка при загрузке данных</string>
+    <string name="retry">Повторить</string>
+</resources>
